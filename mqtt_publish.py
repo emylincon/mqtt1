@@ -24,3 +24,4 @@ while True:
         print("Message Sent")
     except KeyboardInterrupt:
         print('\nProgramme Terminated')
+        break
